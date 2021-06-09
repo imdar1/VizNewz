@@ -41,5 +41,5 @@ TBD
 |  Erica Rubetta         |  A2342252  |  Mobile Development  |
 |  Isa Mujahid D         |  C0020091  |  Cloud Computing     |
 |  Nurul Chotimah        |  C1241604  |  Cloud Computing     |
-|  Marsa Thoriq Ahmada   |  M0020097  |  Cloud Computing     |
-|  Ghiffary R            |  M0020052  |  Cloud Computing     |
+|  Marsa Thoriq Ahmada   |  M0020097  |  Machine Learning      |
+|  Ghiffary R            |  M0020052  |  Machine Learning      |
