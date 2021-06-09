@@ -29,7 +29,7 @@ You will be able to count sentiments and see the current trends with simple, eas
 - [VizNewz Android App]()
 - [VizNewz Backend API](https://github.com/imdar1/news-api)
 - [VizNewz Scraper & Predictor](https://github.com/marsathoriq/Scraper-Berita)
-- [VizNews ML]()
+- [VizNews ML](https://github.com/marsathoriq/Klasifikasi-Berita)
 
 ## Overall Architecture Design
 TBD
