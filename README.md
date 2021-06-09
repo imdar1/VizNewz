@@ -38,6 +38,7 @@ You will be able to count sentiments and see the current trends with simple, eas
 We utilize **Cloud App Engine** for our backend API, connected to the **Cloud SQL** which runs a MySQL instance. The scraper service, deployed on **Cloud Functions**, is a service to scrap news from reputable sources, load machine learning models, perform predict operations, and write the results to the Cloud SQL database. The machine learning models can be found on VizNews ML repo from the [project directory above](#project-directories). We still need to manually deploy the machine learning models to Google Cloud Storage in order to make scraper service runs normally. Cloud Pub/Sub is set as a trigger on the scraper service to integrate it easier with **Cloud Scheduler**.
 
 For the database itself, here is our schema implemented on **Cloud SQL**:
+
 ![Database scheme](res/ER-D.png)
 
 ## Team Member
